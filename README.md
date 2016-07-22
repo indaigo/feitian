@@ -1,7 +1,7 @@
 # 关于
-创建本项目的目的是为了帮助更多的人能更深入地了解伊斯兰教
+创建本项目的目的是为了帮助更多的人能更深入地了解伊斯兰教.内容多整理自网络,如相关的作者不希望收录请在[反馈区](https://github.com/indaigo/feitian/issues)反馈删除.
 
-# 社区讨论
+# 相关社区
 * 本项目聊天室: [![Join the chat at https://gitter.im/indaigo/feitian](https://badges.gitter.im/indaigo/feitian.svg)](https://gitter.im/indaigo/feitian?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 * [本项目反馈讨论区](https://github.com/indaigo/feitian/issues)
 * 伊斯兰教历史教义研究QQ群：460073984
@@ -11,3 +11,7 @@
 * [灵异档案员王昙](http://m.weibo.cn/u/2981083181) [王昙的清真书橱](http://m.weibo.cn/u/5676163189) [爱读书的清真君](http://m.weibo.cn/u/5970176831) [太簇](http://m.weibo.cn/u/1228151340) [习五一](http://m.weibo.cn/u/1442246695)
 * [PETG善待绿色组织](http://m.weibo.cn/u/3138561560) [穆罕默德的小羊](http://m.weibo.cn/u/5765378903) [咖啡乐园茶叶多](http://m.weibo.cn/u/5880774972) 
 * [马前卒](http://m.weibo.cn/u/2001863161)
+
+# 相关文章
+## 外部看待穆斯林
+* [无可回避的挑战------中国与伊斯兰](articles/zhihu/wu_ke_hui_bi_de_tiao_zhan/main.md)
