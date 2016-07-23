@@ -13,7 +13,11 @@
 * [马前卒](http://m.weibo.cn/u/2001863161)
 
 # 相关文章
+## 剖析伊斯兰
+### 清真食品
+* [关于抵制宗教食品运动](articles/weibo/201606_guan_yu_di_zhi/main.md)
+
 ## 外部看待穆斯林
 ### 中国与穆斯林
-* [无可回避的挑战------中国与伊斯兰](articles/zhihu/wu_ke_hui_bi_de_tiao_zhan/main.md)
-* [自媒体时代的"穆黑"(编者标题)](articles/zhihu/nao_jin_ji_zhuan_wan_he_mu_hei/main.md)
+* [无可回避的挑战------中国与伊斯兰](articles/zhihu/201607_wu_ke_hui_bi_de_tiao_zhan/main.md)
+* [自媒体时代的"穆黑"(编者标题)](articles/zhihu/201607_nao_jin_ji_zhuan_wan_he_mu_hei/main.md)
