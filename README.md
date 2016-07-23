@@ -9,9 +9,11 @@
 
 # 相关微博帐号
 * [灵异档案员王昙](http://m.weibo.cn/u/2981083181) [王昙的清真书橱](http://m.weibo.cn/u/5676163189) [爱读书的清真君](http://m.weibo.cn/u/5970176831) [太簇](http://m.weibo.cn/u/1228151340) [习五一](http://m.weibo.cn/u/1442246695)
-* [PETG善待绿色组织](http://m.weibo.cn/u/3138561560) [穆罕默德的小羊](http://m.weibo.cn/u/5765378903) [咖啡乐园茶叶多](http://m.weibo.cn/u/5880774972) 
+* [PETG善待绿色组织](http://m.weibo.cn/u/3138561560) [穆罕默德的小羊](http://m.weibo.cn/u/5765378903) [咖啡乐园茶叶多](http://m.weibo.cn/u/5880774972)
 * [马前卒](http://m.weibo.cn/u/2001863161)
 
 # 相关文章
 ## 外部看待穆斯林
+### 中国与穆斯林
 * [无可回避的挑战------中国与伊斯兰](articles/zhihu/wu_ke_hui_bi_de_tiao_zhan/main.md)
+* [自媒体时代的"穆黑"(编者标题)](articles/zhihu/nao_jin_ji_zhuan_wan_he_mu_hei/main.md)
