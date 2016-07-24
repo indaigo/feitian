@@ -15,12 +15,15 @@
 # 相关文章
 ## 剖析伊斯兰
 ### 清真食品
-* [关于抵制宗教食品运动](articles/weibo/201606_guan_yu_di_zhi/main.md)
+* [关于抵制宗教食品运动](articles/weibo/201606_guan_yu_di_zhi/main.md) 编者评: 黄金左手让人怕怕
 
 ## 外部看待穆斯林
 ### 中国与穆斯林
 * [无可回避的挑战------中国与伊斯兰](articles/zhihu/201607_wu_ke_hui_bi_de_tiao_zhan/main.md)
-* [自媒体时代的"穆黑"(编者标题)](articles/zhihu/201607_nao_jin_ji_zhuan_wan_he_mu_hei/main.md)
+* [自媒体时代的"穆黑"(编者标题)](articles/zhihu/201607_nao_jin_ji_zhuan_wan_he_mu_hei/main.md) 作者曰: 既造因业，便有业果!
 
 ### 日本与穆斯林
-* [那个几乎没有穆斯林的世界](articles/weixin/201607_japan_and_muslim/main.md)
+* [那个几乎没有穆斯林的世界](articles/weixin/201607_japan_and_muslim/main.md) 编者评: 中国可以借鉴这最后一块净土的经验
+
+## 如何遏制穆斯林
+* [如何解决穆斯林日益壮大的问题？ - 柏油的回答 - 知乎](articles/zhihu/201607_how_to_solve_muslim_problem/main.md)

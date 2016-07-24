@@ -2,7 +2,7 @@
 
 * 2015-11-22
 * Mordechai Kedar 群学书院
-* [原连接](http://mp.weixin.qq.com/s?__biz=MzA4MzM4Mjg4Mg==&mid=400678688&idx=1&sn=5e571ba8b5a73a2e83d9c735f0274c6d&scene=2&srcid=112385f5oX7DCh0yNCuno5WK&from=timeline&isappinstalled=0#wechat_redirect&location=35)
+* [原链接](http://mp.weixin.qq.com/s?__biz=MzA4MzM4Mjg4Mg==&mid=400678688&idx=1&sn=5e571ba8b5a73a2e83d9c735f0274c6d&scene=2&srcid=112385f5oX7DCh0yNCuno5WK&from=timeline&isappinstalled=0#wechat_redirect&location=35)
 
 ![](imgs/img01.webp)
 
