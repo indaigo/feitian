@@ -21,3 +21,6 @@
 ### 中国与穆斯林
 * [无可回避的挑战------中国与伊斯兰](articles/zhihu/201607_wu_ke_hui_bi_de_tiao_zhan/main.md)
 * [自媒体时代的"穆黑"(编者标题)](articles/zhihu/201607_nao_jin_ji_zhuan_wan_he_mu_hei/main.md)
+
+### 日本与穆斯林
+* [那个几乎没有穆斯林的世界](articles/weixin/201607_japan_and_muslim/main.md)
