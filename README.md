@@ -19,6 +19,7 @@
 
 ### 清真食品
 * [关于抵制宗教食品运动](articles/weibo/201606_guan_yu_di_zhi/main.md) 编者评: 黄金左手让人怕怕
+* [为什么兰州牛肉面不好吃呢？](articles/weibo/201605_lan_zhou_niu_rou_mian/main.md)
 
 ## 外部看待穆斯林
 ### 中国与穆斯林
