@@ -16,6 +16,7 @@
 ## 剖析伊斯兰
 ### 中东伊斯兰
 * [中东地区是否存在温和派穆斯林？](articles/weibo/201607_middle_east_moderate_muslim/main.md)
+* [伊斯兰问题，还是阿拉伯问题？](articles/blog/201512_islam_or_arabic_problem/main.md)
 
 ### 清真食品
 * [关于抵制宗教食品运动](articles/weibo/201606_guan_yu_di_zhi/main.md) 编者评: 黄金左手让人怕怕
