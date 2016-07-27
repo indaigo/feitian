@@ -8,15 +8,18 @@
 * 知乎: [伊斯兰教话题](https://www.zhihu.com/topic/19557525/hot)
 
 # 相关微博帐号
-* [灵异档案员王昙](http://m.weibo.cn/u/2981083181) [王昙的清真书橱](http://m.weibo.cn/u/5676163189) [爱读书的清真君](http://m.weibo.cn/u/5970176831) [太簇](http://m.weibo.cn/u/1228151340) [习五一](http://m.weibo.cn/u/1442246695)
+* [灵异档案员王昙](http://m.weibo.cn/u/2981083181) [王昙的清真书橱](http://m.weibo.cn/u/5676163189) [爱读书的清真君](http://m.weibo.cn/u/5970176831) [太簇](http://m.weibo.cn/u/1228151340) [习五一](http://m.weibo.cn/u/1442246695) [涂涂南红](http://m.weibo.cn/u/1431843524)
 * [PETG善待绿色组织](http://m.weibo.cn/u/3138561560) [穆罕默德的小羊](http://m.weibo.cn/u/5765378903) [咖啡乐园茶叶多](http://m.weibo.cn/u/5880774972)
 * [马前卒](http://m.weibo.cn/u/2001863161)
 
 # 相关文章
 ## 剖析伊斯兰
+###伊斯兰教义
+* [剖析亚伯拉罕诸教（基督/犹太/伊斯兰）区别，＆伊斯兰主义](articles/weibo/201607_po_xi_ya_bo_la_han_zu_jiao/main.md)
+
 ### 中东伊斯兰
 * [中东地区是否存在温和派穆斯林？](articles/weibo/201607_middle_east_moderate_muslim/main.md)
-* [伊斯兰问题，还是阿拉伯问题？](articles/blog/201512_islam_or_arabic_problem/main.md)
+* [伊斯兰问题，还是阿拉伯问题？](articles/blog/201512_islam_or_arabic_problem/main.md) 非常深刻的分析
 
 ### 清真食品
 * [关于抵制宗教食品运动](articles/weibo/201606_guan_yu_di_zhi/main.md) 编者评: 黄金左手让人怕怕
