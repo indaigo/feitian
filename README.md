@@ -15,6 +15,7 @@
 ## 剖析伊斯兰
 ###伊斯兰教义
 * [剖析亚伯拉罕诸教（基督/犹太/伊斯兰）区别，＆伊斯兰主义](articles/weibo/201607_po_xi_ya_bo_la_han_zu_jiao/main.md)
+* [从经文分析为什么伊斯兰和其他文明不可能兼容(编者题)](articles/zhihu/201607_jiaoyi_buneng_jianrong/main.md)
 
 ### 中东伊斯兰
 * [中东地区是否存在温和派穆斯林？](articles/weibo/201607_middle_east_moderate_muslim/main.md)
