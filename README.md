@@ -24,7 +24,9 @@
 
 ### 清真食品
 * [关于抵制宗教食品运动](articles/weibo/201606_guan_yu_di_zhi/main.md) 编者评: 黄金左手让人怕怕
-* [为什么兰州牛肉面不好吃呢？](articles/weibo/201605_lan_zhou_niu_rou_mian/main.md)
+* 兰州牛肉面
+	* [为什么兰州牛肉面不好吃呢？](articles/weibo/201605_lan_zhou_niu_rou_mian/main.md)
+	* [视频: 牛肉面的起源和香料](http://v.youku.com/v_show/id_XMTY1Njk4NjE2MA==.html)
 * [再说清真：民俗+宗教=隔离？](articles/weibo/201607_qingzhen_minsu_zongjiao/main.md)
 
 ## 外部看待穆斯林
@@ -38,10 +40,10 @@
 * [西班牙成功去伊斯兰化过程的意义和借鉴](articles/weibo/201607_spain_remove_yislam/main.md)
 
 ### 欧洲斯坦进行时
-* 视频:[日益穆斯林化的英国, 不寒而栗。](http://m.weibo.cn/1410071074/E0wqC5TIw) ,一个英国女孩回到家乡拍摄的令她万分沮丧的视频
+* [视频: 日益穆斯林化的英国, 不寒而栗。](http://m.weibo.cn/1410071074/E0wqC5TIw) 一个英国女孩回到家乡拍摄的令她万分沮丧的视频
 
 ### 美国与穆斯林
-* 视频: [美国记者反驳穆斯林学生](http://club.kdnet.net/dispbbs.asp?boardid=1&id=11753538)
+* [视频: 美国记者反驳穆斯林学生](http://club.kdnet.net/dispbbs.asp?boardid=1&id=11753538)
 
 ## 如何遏制穆斯林
 * [如何解决穆斯林日益壮大的问题？ - 柏油的回答 - 知乎](articles/zhihu/201607_how_to_solve_muslim_problem/main.md)
