@@ -8,7 +8,7 @@
 * 知乎: [伊斯兰教话题](https://www.zhihu.com/topic/19557525/hot)
 
 # 相关微博帐号
-* [灵异档案员王昙](http://m.weibo.cn/u/2981083181) [王昙的清真书橱](http://m.weibo.cn/u/5676163189) [爱读书的清真君](http://m.weibo.cn/u/5970176831) [太簇](http://m.weibo.cn/u/1228151340) [习五一](http://m.weibo.cn/u/1442246695) [涂涂南红](http://m.weibo.cn/u/1431843524) [马前卒](http://m.weibo.cn/u/2001863161) [轻轻闲影](http://m.weibo.cn/u/3844773596)
+* [灵异档案员王昙](http://m.weibo.cn/u/2981083181) [王昙的清真书橱](http://m.weibo.cn/u/5676163189) [爱读书的清真君](http://m.weibo.cn/u/5970176831) [太簇](http://m.weibo.cn/u/1228151340) [习五一](http://m.weibo.cn/u/1442246695) [涂涂南红](http://m.weibo.cn/u/1431843524) [马前卒](http://m.weibo.cn/u/2001863161)
 * [PETG善待绿色组织](http://m.weibo.cn/u/3138561560) [穆罕默德的小羊](http://m.weibo.cn/u/5765378903) [咖啡乐园茶叶多](http://m.weibo.cn/u/5880774972)
 
 # 相关文章
@@ -33,8 +33,9 @@
 * [自媒体时代的"穆黑"(编者题)](articles/zhihu/201607_nao_jin_ji_zhuan_wan_he_mu_hei/main.md) 作者曰: 既造因业，便有业果!
 * [中国伊斯兰的阶层和派系(编者题)](articles/zhihu/201606_yisilan_jieceng_paixi/main.md)
 
-### 正确对待穆斯林的国家
+### 正确对待穆斯林的国家: 日本,西班牙
 * [那个几乎没有穆斯林的世界](articles/weixin/201607_japan_and_muslim/main.md) 编者评: 中国可以借鉴日本的经验
+* [西班牙成功去伊斯兰化过程的意义和借鉴](articles/weibo/201607_spain_remove_yislam/main.md)
 
 ### 欧洲斯坦进行时
 * 视频:[日益穆斯林化的英国, 不寒而栗。](http://m.weibo.cn/1410071074/E0wqC5TIw) ,一个英国女孩回到家乡拍摄的令她万分沮丧的视频
