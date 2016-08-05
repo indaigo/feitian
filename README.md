@@ -8,14 +8,15 @@
 * 知乎: [伊斯兰教话题](https://www.zhihu.com/topic/19557525/hot)
 
 # 相关微博帐号
-* [灵异档案员王昙](http://m.weibo.cn/u/2981083181) [王昙的清真书橱](http://m.weibo.cn/u/5676163189) [爱读书的清真君](http://m.weibo.cn/u/5970176831) [太簇](http://m.weibo.cn/u/1228151340) [习五一](http://m.weibo.cn/u/1442246695) [涂涂南红](http://m.weibo.cn/u/1431843524) [马前卒](http://m.weibo.cn/u/2001863161)
+* [灵异档案员王昙](http://m.weibo.cn/u/2981083181) [王昙的清真书橱](http://m.weibo.cn/u/5676163189) [爱读书的清真君](http://m.weibo.cn/u/5970176831) [太簇](http://m.weibo.cn/u/1228151340) [习五一](http://m.weibo.cn/u/1442246695) [涂涂南红](http://m.weibo.cn/u/1431843524) [马前卒](http://m.weibo.cn/u/2001863161) [崔紫剑同志](http://m.weibo.cn/u/1657156945)
 * [PETG善待绿色组织](http://m.weibo.cn/u/3138561560) [穆罕默德的小羊](http://m.weibo.cn/u/5765378903) [咖啡乐园茶叶多](http://m.weibo.cn/u/5880774972)
 
 # 相关文章
 ## 剖析伊斯兰
 
-###伊斯兰传统
+###伊斯兰传统和历史
 * [遮面是穆斯林女性的传统服饰吗? (编者题)](articles/zhihu/201505_zhemian_shi_chuantong_ma/main.md)
+* [视频: 我们因何而恐惧，一个一千四百年的秘密](http://v.qq.com/x/page/y0316ixcy13.html) 伊斯兰一千四百年以来的宗教战争的残暴历史
 
 ###伊斯兰教义
 * [剖析亚伯拉罕诸教（基督/犹太/伊斯兰）区别，＆伊斯兰主义](articles/weibo/201607_po_xi_ya_bo_la_han_zu_jiao/main.md)
