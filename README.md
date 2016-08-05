@@ -17,12 +17,14 @@
 ###伊斯兰传统和历史
 * [遮面是穆斯林女性的传统服饰吗? (编者题)](articles/zhihu/201505_zhemian_shi_chuantong_ma/main.md)
 * [视频: 我们因何而恐惧，一个一千四百年的秘密](http://v.qq.com/x/page/y0316ixcy13.html) 伊斯兰一千四百年以来的宗教战争的残暴历史
+* [剖析亚伯拉罕诸教（基督/犹太/伊斯兰）区别，＆伊斯兰主义](articles/weibo/201607_po_xi_ya_bo_la_han_zu_jiao/main.md)
 
 ###伊斯兰教义
-* [剖析亚伯拉罕诸教（基督/犹太/伊斯兰）区别，＆伊斯兰主义](articles/weibo/201607_po_xi_ya_bo_la_han_zu_jiao/main.md)
 * [从经文分析为什么伊斯兰和其他文明不可能兼容(编者题)](articles/zhihu/201607_jiaoyi_buneng_jianrong/main.md)
+* [古兰经对不信者的惩罚仇视和诅咒(编者题)](articles/zhihu/201308_gulanjing_buxindao/main.md)
 * [视频: 阿拉伯女性瓦法．苏尔丹在半岛电视台上和伊斯兰毛拉的辩论](https://www.youtube.com/watch?v=9egF46Ht9T8)(需翻墙,墙内字幕版都被删除了)
 * [视频: 用数据说话 - 那些不为人知的穆斯林观点和人口统计学数据](http://weibo.com/p/23044423a2d380b86a8d183ff0b6617f5a2c10) (youtube上原版: [By The Numbers - The Untold Story of Muslim Opinions & Demographics](https://www.youtube.com/watch?v=pSPvnFDDQHk))
+
 
 ### 中东伊斯兰
 * [中东地区是否存在温和派穆斯林？](articles/weibo/201607_middle_east_moderate_muslim/main.md)
