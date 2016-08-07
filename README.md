@@ -8,7 +8,8 @@
 * 知乎: [伊斯兰教话题](https://www.zhihu.com/topic/19557525/hot)
 
 # 相关微博帐号
-* [灵异档案员王昙](http://m.weibo.cn/u/2981083181) [王昙的清真书橱](http://m.weibo.cn/u/5676163189) [爱读书的清真君](http://m.weibo.cn/u/5970176831) [太簇](http://m.weibo.cn/u/1228151340) [习五一](http://m.weibo.cn/u/1442246695) [涂涂南红](http://m.weibo.cn/u/1431843524) [马前卒](http://m.weibo.cn/u/2001863161) [崔紫剑同志](http://m.weibo.cn/u/1657156945)
+* [灵异档案员王昙](http://m.weibo.cn/u/2981083181) [王昙的清真书橱](http://m.weibo.cn/u/5676163189) [爱读书的清真君](http://m.weibo.cn/u/5970176831) [太簇](http://m.weibo.cn/u/1228151340)  [涂涂南红](http://m.weibo.cn/u/1431843524) [马前卒](http://m.weibo.cn/u/2001863161)
+* [习五一](http://m.weibo.cn/u/1442246695) [崔紫剑同志](http://m.weibo.cn/u/1657156945) [利剑反恐](http://m.weibo.cn/u/5183790186)
 * [PETG善待绿色组织](http://m.weibo.cn/u/3138561560) [穆罕默德的小羊](http://m.weibo.cn/u/5765378903) [咖啡乐园茶叶多](http://m.weibo.cn/u/5880774972)
 
 # 相关文章
@@ -16,7 +17,9 @@
 
 ###伊斯兰传统和历史
 * [遮面是穆斯林女性的传统服饰吗? (编者题)](articles/zhihu/201505_zhemian_shi_chuantong_ma/main.md)
-* [视频: 我们因何而恐惧，一个一千四百年的秘密](http://v.qq.com/x/page/y0316ixcy13.html) 伊斯兰一千四百年以来的宗教战争的残暴历史
+* [视频: 我们因何而恐惧，一个一千四百年的秘密(QQ视频版本)](http://v.qq.com/x/page/y0316ixcy13.html) 伊斯兰一千四百年以来的扩张历史表明: 伊斯兰的本质和扩张的秘密在于对非伊斯兰教的"异端"持续的迫害,残暴战争和残忍杀戮
+	* [文字版](articles/weixin/201602_why_we_so_fear_to_islam/main.md)
+	* [爱奇异版本](http://www.iqiyi.com/w_19rrylp8kl.html) , [youtube版本(需翻墙)](https://www.youtube.com/watch?v=_xDODMbKYec)
 * [剖析亚伯拉罕诸教（基督/犹太/伊斯兰）区别，＆伊斯兰主义](articles/weibo/201607_po_xi_ya_bo_la_han_zu_jiao/main.md)
 
 ###伊斯兰教义
@@ -49,6 +52,8 @@
 
 ### 欧洲斯坦进行时
 * [视频: 日益穆斯林化的英国, 不寒而栗。](http://m.weibo.cn/1410071074/E0wqC5TIw) 一个英国女孩回到家乡拍摄的令她万分沮丧的视频
+* [视频: 英国穆斯林群体的极端化](http://weibo.com/p/230444212ed148ed875ece488f8447decc0a27), "伊斯兰教因其教义中严格的排他性和封闭性设定，始终有自我极端化倾向，该倾向并不因其在东方或西方、“专制”或“民主”中而不同——事实上无论在哪，这种极端倾向都会随着教众聚集，自然而然的显露出来，同时伴生着迫使你服从或皈依的渴望——看看英国人的经验。"
+* [视频: 西方眼睁睁看着末日降临 马克·斯坦恩访谈](http://v.youku.com/v_show/id_XNjMxNzYyMTY4.html)
 
 ### 美国与穆斯林
 * [视频: 美国记者反驳穆斯林学生](http://club.kdnet.net/dispbbs.asp?boardid=1&id=11753538)
