@@ -8,9 +8,9 @@
 * 知乎: [伊斯兰教话题](https://www.zhihu.com/topic/19557525/hot)
 
 # 相关微博帐号
-* [灵异档案员王昙](http://m.weibo.cn/u/2981083181) [王昙的清真书橱](http://m.weibo.cn/u/5676163189) [爱读书的清真君](http://m.weibo.cn/u/5970176831) [太簇](http://m.weibo.cn/u/1228151340)  [涂涂南红](http://m.weibo.cn/u/1431843524) [马前卒](http://m.weibo.cn/u/2001863161)
+* [灵异档案员王昙](http://m.weibo.cn/u/2981083181) [王昙的清真书橱](http://m.weibo.cn/u/5676163189) [爱读书的清真君](http://m.weibo.cn/u/5970176831) [太簇](http://m.weibo.cn/u/1228151340)  [涂涂南红](http://m.weibo.cn/u/1431843524) [马前卒](http://m.weibo.cn/u/2001863161) [寞洑](http://m.weibo.cn/u/1242799883)
 * [习五一](http://m.weibo.cn/u/1442246695) [崔紫剑同志](http://m.weibo.cn/u/1657156945) [利剑反恐](http://m.weibo.cn/u/5183790186)
-* [PETG善待绿色组织](http://m.weibo.cn/u/3138561560) [穆罕默德的小羊](http://m.weibo.cn/u/5765378903) [咖啡乐园茶叶多](http://m.weibo.cn/u/5880774972)
+* [PETG善待绿色组织](http://m.weibo.cn/u/3138561560) [穆罕默德的小羊](http://m.weibo.cn/u/5765378903) [咖啡乐园茶叶多](http://m.weibo.cn/u/5880774972) [浪舞草蜢](http://m.weibo.cn/u/3945267902)
 
 # 相关文章
 ## 剖析伊斯兰
@@ -29,6 +29,7 @@
 * [视频: 阿拉伯女性瓦法．苏尔丹在半岛电视台上和伊斯兰毛拉的辩论](https://www.youtube.com/watch?v=9egF46Ht9T8)(需翻墙,墙内字幕版都被删除了)
 * [视频: 用数据说话 - 那些不为人知的穆斯林观点和人口统计学数据](http://weibo.com/p/23044423a2d380b86a8d183ff0b6617f5a2c10) (youtube上原版: [By The Numbers - The Untold Story of Muslim Opinions & Demographics](https://www.youtube.com/watch?v=pSPvnFDDQHk))
 * [沙里亚在世俗社会中的目标](articles/blog/201003_sharya_target/main.md) 这是穆斯林自己的看法,所以我们要警惕穆斯林小区
+* [伊斯兰教徒们或许应该这么做？](articles/weibo/201605_muslin_should_do_this_way/main.md)
 
 ### 中东伊斯兰
 * [中东地区是否存在温和派穆斯林？](articles/weibo/201607_middle_east_moderate_muslim/main.md)
@@ -36,7 +37,7 @@
 
 ### 清真食品
 * [关于抵制宗教食品运动](articles/weibo/201606_guan_yu_di_zhi/main.md) 编者评: 黄金左手让人怕怕
-* 兰州牛肉面
+* 牛肉面和回族
 	* [为什么兰州牛肉面不好吃呢？](articles/weibo/201605_lan_zhou_niu_rou_mian/main.md)
 	* [视频: 牛肉面的起源和香料](http://v.youku.com/v_show/id_XMTY1Njk4NjE2MA==.html)
 * [再说清真：民俗+宗教=隔离？](articles/weibo/201607_qingzhen_minsu_zongjiao/main.md)
