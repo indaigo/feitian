@@ -7,6 +7,7 @@
 * 知乎: [伊斯兰教话题](https://www.zhihu.com/topic/19557525/hot)
 
 # 相关微博帐号
+**下面这些微博帐号是编者整理的,能让大家更深入了解伊斯兰的方方面面和本质,请大家关注他们**
 * [灵异档案员王昙](http://m.weibo.cn/u/2981083181) [王昙的清真书橱](http://m.weibo.cn/u/5676163189) [爱读书的清真君](http://m.weibo.cn/u/5970176831) [太簇](http://m.weibo.cn/u/1228151340)  [涂涂南红](http://m.weibo.cn/u/1431843524) [马前卒](http://m.weibo.cn/u/2001863161) [寞洑](http://m.weibo.cn/u/1242799883)
 * [习五一](http://m.weibo.cn/u/1442246695) [崔紫剑同志](http://m.weibo.cn/u/1657156945) [利剑反恐](http://m.weibo.cn/u/5183790186)
 * [PETG善待绿色组织](http://m.weibo.cn/u/3138561560) [穆罕默德的小羊](http://m.weibo.cn/u/5765378903) [咖啡乐园茶叶多](http://m.weibo.cn/u/5880774972) [浪舞草蜢](http://m.weibo.cn/u/3945267902)
