@@ -4,7 +4,6 @@
 # 相关社区
 * 本项目聊天室: [![Join the chat at https://gitter.im/indaigo/feitian](https://badges.gitter.im/indaigo/feitian.svg)](https://gitter.im/indaigo/feitian?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 * [本项目反馈讨论区](https://github.com/indaigo/feitian/issues) ,对本项目有任何问题请在这里提出
-* 伊斯兰教历史教义研究QQ群：460073984
 * 知乎: [伊斯兰教话题](https://www.zhihu.com/topic/19557525/hot)
 
 # 相关微博帐号
