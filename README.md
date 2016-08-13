@@ -9,9 +9,10 @@
 # 相关微博帐号
 **下面这些微博帐号是编者整理的,能让大家更深入了解伊斯兰的方方面面和本质,请大家关注他们**
 
-* [灵异档案员王昙](http://m.weibo.cn/u/2981083181) [王昙的清真书橱](http://m.weibo.cn/u/5676163189) [爱读书的清真君](http://m.weibo.cn/u/5970176831) [太簇](http://m.weibo.cn/u/1228151340)  [涂涂南红](http://m.weibo.cn/u/1431843524) [马前卒](http://m.weibo.cn/u/2001863161) [寞洑](http://m.weibo.cn/u/1242799883)
+* [灵异档案员王昙](http://m.weibo.cn/u/2981083181) [王昙的清真书橱](http://m.weibo.cn/u/5676163189) [爱读书的清真君](http://m.weibo.cn/u/5970176831) [太簇](http://m.weibo.cn/u/1228151340)  [涂涂南红](http://m.weibo.cn/u/1431843524) [马前卒](http://m.weibo.cn/u/2001863161) [浪舞草蜢](http://m.weibo.cn/u/3945267902) [寞洑](http://m.weibo.cn/u/1242799883) [安然cn](http://m.weibo.cn/u/2042052593) [轻轻闲影-
+](http://m.weibo.cn/u/3844773596)
 * [习五一](http://m.weibo.cn/u/1442246695) [崔紫剑同志](http://m.weibo.cn/u/1657156945) [利剑反恐](http://m.weibo.cn/u/5183790186)
-* [PETG善待绿色组织](http://m.weibo.cn/u/3138561560) [穆罕默德的小羊](http://m.weibo.cn/u/5765378903) [咖啡乐园茶叶多](http://m.weibo.cn/u/5880774972) [浪舞草蜢](http://m.weibo.cn/u/3945267902)
+* [PETG善待绿色组织](http://m.weibo.cn/u/3138561560) [穆罕默德的小羊](http://m.weibo.cn/u/5765378903) [咖啡乐园茶叶多](http://m.weibo.cn/u/5880774972)
 
 # 相关文章
 ## 剖析伊斯兰
@@ -50,6 +51,7 @@
 * [自媒体时代的"穆黑"(编者题)](articles/zhihu/201607_nao_jin_ji_zhuan_wan_he_mu_hei/main.md) 作者曰: 既造因业，便有业果!
 * [中国伊斯兰的阶层和派系(编者题)](articles/zhihu/201606_yisilan_jieceng_paixi/main.md)
 * [一个不信仰伊斯兰的维吾尔，还能是维吾尔吗？](articles/weixin/201608_islam_and_uygur/main.md)
+* [中国穆斯林的几次窝里斗](articles/weibo/201608_muslim_fight_internally/main.md) ,"回回争教门，争来争去杀汉人"
 
 ### 正确对待穆斯林的国家: 日本,西班牙
 * [那个几乎没有穆斯林的世界](articles/weixin/201607_japan_and_muslim/main.md) 编者评: 中国可以借鉴日本的经验
