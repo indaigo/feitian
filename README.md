@@ -10,9 +10,9 @@
 **下面这些微博帐号是编者整理的,能让大家更深入了解伊斯兰的方方面面和本质,请大家关注他们**
 
 * [灵异档案员王昙](http://m.weibo.cn/u/2981083181) [王昙的清真书橱](http://m.weibo.cn/u/5676163189) [爱读书的清真君](http://m.weibo.cn/u/5970176831) [太簇](http://m.weibo.cn/u/1228151340)  [涂涂南红](http://m.weibo.cn/u/1431843524) [马前卒](http://m.weibo.cn/u/2001863161) [浪舞草蜢](http://m.weibo.cn/u/3945267902) [寞洑](http://m.weibo.cn/u/1242799883) [安然cn](http://m.weibo.cn/u/2042052593) [轻轻闲影-
-](http://m.weibo.cn/u/3844773596)
+](http://m.weibo.cn/u/3844773596) [反伊女权者](http://m.weibo.cn/u/5999366630) [德玛西亚希](http://m.weibo.cn/u/5214885391)
 * [习五一](http://m.weibo.cn/u/1442246695) [崔紫剑同志](http://m.weibo.cn/u/1657156945) [利剑反恐](http://m.weibo.cn/u/5183790186)
-* [PETG善待绿色组织](http://m.weibo.cn/u/3138561560) [穆罕默德的小羊](http://m.weibo.cn/u/5765378903) [咖啡乐园茶叶多](http://m.weibo.cn/u/5880774972)
+* [PETG善待绿色组织](http://m.weibo.cn/u/3138561560) [穆罕默德的小羊](http://m.weibo.cn/u/5765378903) [咖啡乐园茶叶多](http://m.weibo.cn/u/5880774972) [反绿运动联盟](http://m.weibo.cn/u/1360086840) [法兰西微语](http://m.weibo.cn/u/2335625480)
 
 # 相关文章
 ## 剖析伊斯兰
@@ -23,6 +23,7 @@
 	* [文字版](articles/weixin/201602_why_we_so_fear_to_islam/main.md)
 	* [爱奇异版本](http://www.iqiyi.com/w_19rrylp8kl.html) , [youtube版本(需翻墙)](https://www.youtube.com/watch?v=_xDODMbKYec)
 * [剖析亚伯拉罕诸教（基督/犹太/伊斯兰）区别，＆伊斯兰主义](articles/weibo/201607_po_xi_ya_bo_la_han_zu_jiao/main.md)
+* [瓦哈比派的由来及演变](articles/weibo/201503_wahhabi_history/main.md)
 
 ###伊斯兰教义
 * [从经文分析为什么伊斯兰和其他文明不可能兼容(编者题)](articles/zhihu/201607_jiaoyi_buneng_jianrong/main.md)
