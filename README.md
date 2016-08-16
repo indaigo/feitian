@@ -33,10 +33,12 @@
 * [视频: 用数据说话 - 那些不为人知的穆斯林观点和人口统计学数据](http://weibo.com/p/23044423a2d380b86a8d183ff0b6617f5a2c10) (youtube上原版: [By The Numbers - The Untold Story of Muslim Opinions & Demographics](https://www.youtube.com/watch?v=pSPvnFDDQHk))
 * [沙里亚在世俗社会中的目标](articles/blog/201003_sharya_target/main.md) 这是穆斯林自己的看法,所以我们要警惕穆斯林小区
 * [伊斯兰教徒们或许应该这么做？](articles/weibo/201605_muslin_should_do_this_way/main.md)
+* [为什么宗教的约束力要远远强于法律？](articles/zhihu/201608_why_religion_constrain_more_than_law/main.md)
 
-### 中东伊斯兰
+### 中东和伊斯兰
 * [中东地区是否存在温和派穆斯林？](articles/weibo/201607_middle_east_moderate_muslim/main.md)
 * [伊斯兰问题，还是阿拉伯问题？](articles/blog/201512_islam_or_arabic_problem/main.md) 非常深刻的分析
+* [2010 年开始的阿拉伯之春，到 2015 年，北非以及中东地区的格局有何变化或发展趋势？](articles/zhihu/201502_middle_east_politics_analysing/main.md)
 
 ### 清真食品
 * [关于抵制宗教食品运动](articles/weibo/201606_guan_yu_di_zhi/main.md) 编者评: 黄金左手让人怕怕
