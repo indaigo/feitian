@@ -28,6 +28,7 @@
 ###伊斯兰教义
 * [从经文分析为什么伊斯兰和其他文明不可能兼容(编者题)](articles/zhihu/201607_jiaoyi_buneng_jianrong/main.md)
 * [古兰经对不信者的惩罚仇视和诅咒(编者题)](articles/zhihu/201308_gulanjing_buxindao/main.md)
+* [总有人说我对古兰经的理解是断章取义，那么就来看看，古兰经的原文…](articles/weibo/201606_gulanjing_lijie/main.md)
 * [普及知识【伊斯兰教“论妇女”】](articles/weibo/201607_islam_and_womem/main.md)
 * [视频: 阿拉伯女性瓦法．苏尔丹在半岛电视台上和伊斯兰毛拉的辩论](https://www.youtube.com/watch?v=9egF46Ht9T8)(需翻墙,墙内字幕版都被删除了)
 * [视频: 用数据说话 - 那些不为人知的穆斯林观点和人口统计学数据](http://weibo.com/p/23044423a2d380b86a8d183ff0b6617f5a2c10) (youtube上原版: [By The Numbers - The Untold Story of Muslim Opinions & Demographics](https://www.youtube.com/watch?v=pSPvnFDDQHk))
