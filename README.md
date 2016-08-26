@@ -10,7 +10,7 @@
 **下面这些微博帐号是编者整理的,能让大家更深入了解伊斯兰的方方面面和本质,请大家关注他们**
 
 * [灵异档案员王昙](http://m.weibo.cn/u/2981083181) [王昙的清真书橱](http://m.weibo.cn/u/5676163189) [爱读书的清真君](http://m.weibo.cn/u/5970176831) [太簇](http://m.weibo.cn/u/1228151340)  [涂涂南红](http://m.weibo.cn/u/1431843524) [马前卒](http://m.weibo.cn/u/2001863161) [浪舞草蜢](http://m.weibo.cn/u/3945267902) [寞洑](http://m.weibo.cn/u/1242799883) [安然cn](http://m.weibo.cn/u/2042052593) [轻轻闲影-
-](http://m.weibo.cn/u/3844773596) [反伊女权者](http://m.weibo.cn/u/5999366630) [德玛西亚希](http://m.weibo.cn/u/5214885391)
+](http://m.weibo.cn/u/3844773596) [反伊女权者](http://m.weibo.cn/u/5999366630) [德玛西亚希](http://m.weibo.cn/u/5214885391) [打屁虫先生](http://m.weibo.cn/u/5977473247?)
 * [习五一](http://m.weibo.cn/u/1442246695) [崔紫剑同志](http://m.weibo.cn/u/1657156945) [利剑反恐](http://m.weibo.cn/u/5183790186)
 * [PETG善待绿色组织](http://m.weibo.cn/u/3138561560) [穆罕默德的小羊](http://m.weibo.cn/u/5765378903) [咖啡乐园茶叶多](http://m.weibo.cn/u/5880774972) [反绿运动联盟](http://m.weibo.cn/u/1360086840) [法兰西微语](http://m.weibo.cn/u/2335625480)
 
@@ -41,13 +41,16 @@
 * [伊斯兰问题，还是阿拉伯问题？](articles/blog/201512_islam_or_arabic_problem/main.md) 非常深刻的分析
 * [2010 年开始的阿拉伯之春，到 2015 年，北非以及中东地区的格局有何变化或发展趋势？](articles/zhihu/201502_middle_east_politics_analysing/main.md)
 
-### 清真食品
+### 吃
 * [关于抵制宗教食品运动](articles/weibo/201606_guan_yu_di_zhi/main.md) 编者评: 黄金左手让人怕怕
 * 牛肉面和回族
 	* [为什么兰州牛肉面不好吃呢？](articles/weibo/201605_lan_zhou_niu_rou_mian/main.md)
 	* [视频: 牛肉面的起源和香料](http://v.youku.com/v_show/id_XMTY1Njk4NjE2MA==.html)
 * [清真煎饼会不会成为下一个拉面帮？](articles/weibo/201608_qingzhen_jianbing/main.md)
 * [再说清真：民俗+宗教=隔离？](articles/weibo/201607_qingzhen_minsu_zongjiao/main.md)
+
+### 穿
+* [罩袍背后 中国应该如何看待穆斯林“罩袍现象”](http://v.youku.com/v_show/id_XMTcwMDk3NTIzNg)
 
 ## 伊斯兰侵蚀下的现代国家
 ### 中国与穆斯林
