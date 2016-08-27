@@ -17,8 +17,11 @@
 # 相关文章
 ## 剖析伊斯兰
 
-###伊斯兰传统和历史
+###伊斯兰传统习俗
 * [遮面是穆斯林女性的传统服饰吗? (编者题)](articles/zhihu/201505_zhemian_shi_chuantong_ma/main.md)
+* [驳斥女性割礼与伊斯兰无关的谎言及其他](articles/weibo/201407_islam_and_geli/main.md)
+
+###伊斯兰历史
 * [视频: 我们因何而恐惧，一个一千四百年的秘密(QQ视频版本)](http://v.qq.com/x/page/y0316ixcy13.html) 伊斯兰一千四百年以来的扩张历史表明: 伊斯兰的本质和扩张的秘密在于对非伊斯兰教的"异端"持续的迫害,残暴战争和残忍杀戮
 	* [文字版](articles/weixin/201602_why_we_so_fear_to_islam/main.md)
 	* [爱奇异版本](http://www.iqiyi.com/w_19rrylp8kl.html) , [youtube版本(需翻墙)](https://www.youtube.com/watch?v=_xDODMbKYec)
