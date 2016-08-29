@@ -58,6 +58,7 @@
 
 ### 穿
 * [视频:罩袍背后 中国应该如何看待穆斯林“罩袍现象”](https://www.youtube.com/watch?v=BEL7FcXK1Vc) 优酷上的已经被删,这里换成了youtube链接,需翻
+* [遇见极端宗教服饰怎么办？](articles/weibo/201607_ji_duan_fu_shi/main.md)
 
 ## 伊斯兰侵蚀下的现代国家
 ### 中国与穆斯林
@@ -66,6 +67,7 @@
 * [中国伊斯兰的阶层和派系(编者题)](articles/zhihu/201606_yisilan_jieceng_paixi/main.md)
 * [一个不信仰伊斯兰的维吾尔，还能是维吾尔吗？](articles/weixin/201608_islam_and_uygur/main.md)
 * [中国穆斯林的几次窝里斗](articles/weibo/201608_muslim_fight_internally/main.md) ,"回回争教门，争来争去杀汉人"
+* [国内伊教徒有退教自由吗？](articles/weibo/201608_zhongguo_tuijiao/main.md)
 
 ### 正确对待穆斯林的国家: 日本,西班牙
 * [那个几乎没有穆斯林的世界](articles/weixin/201607_japan_and_muslim/main.md) 编者评: 中国可以借鉴日本的经验
@@ -79,6 +81,6 @@
 ### 美国与穆斯林
 * [视频: 美国记者反驳穆斯林学生](http://club.kdnet.net/dispbbs.asp?boardid=1&id=11753538)
 
-## 如何遏制穆斯林
+## 如何遏制
 * [如何解决穆斯林日益壮大的问题？ - 柏油的回答 - 知乎](articles/zhihu/201607_how_to_solve_muslim_problem/main.md)
-* [遇见极端宗教服饰怎么办？](articles/weibo/201607_ji_duan_fu_shi/main.md)
+* [我，是怎么差一点就成了圣战者的...一场洗脑与反洗脑的斗争...](articles/weibo/201608_shengzhanzhe/main.md)
