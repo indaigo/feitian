@@ -43,6 +43,9 @@
 * [伊斯兰教徒们或许应该这么做？](articles/weibo/201605_muslin_should_do_this_way/main.md)
 * [为什么宗教的约束力要远远强于法律？](articles/zhihu/201608_why_religion_constrain_more_than_law/main.md)
 
+###伊斯兰派别
+* [伊斯兰教四大派别及中国伊斯兰教的派别](articles/misc/201110_yisilan_paibie/main.md)
+
 ### 中东和伊斯兰
 * [中东地区是否存在温和派穆斯林？](articles/weibo/201607_middle_east_moderate_muslim/main.md)
 * [伊斯兰问题，还是阿拉伯问题？](articles/blog/201512_islam_or_arabic_problem/main.md) 非常深刻的分析
