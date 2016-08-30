@@ -61,7 +61,7 @@
 * [再说清真：民俗+宗教=隔离？](articles/weibo/201607_qingzhen_minsu_zongjiao/main.md)
 
 ### 穿
-* [视频:罩袍背后 中国应该如何看待穆斯林“罩袍现象”](https://www.youtube.com/watch?v=BEL7FcXK1Vc) 优酷上的已经被删,这里换成了youtube链接,需翻
+* [视频:罩袍背后 中国应该如何看待穆斯林“罩袍现象”](http://tv.cntv.cn/video/C11120/6fd2fd74db883dde9f9835430a4e5c44) ([youtube版本](https://www.youtube.com/watch?v=BEL7FcXK1Vc))
 * [遇见极端宗教服饰怎么办？](articles/weibo/201607_ji_duan_fu_shi/main.md)
 
 ## 伊斯兰侵蚀下的现代国家
