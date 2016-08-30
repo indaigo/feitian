@@ -53,6 +53,7 @@
 
 ### 吃
 * [关于抵制宗教食品运动](articles/weibo/201606_guan_yu_di_zhi/main.md) 编者评: 黄金左手让人怕怕
+* [关注清真食品安全与健康](articles/weibo/201608_halal_food_and_health/main.md)
 * 牛肉面和回族
 	* [为什么兰州牛肉面不好吃呢？](articles/weibo/201605_lan_zhou_niu_rou_mian/main.md)
 	* [视频: 牛肉面的起源和香料](http://v.youku.com/v_show/id_XMTY1Njk4NjE2MA==.html)
@@ -83,6 +84,7 @@
 
 ### 美国与穆斯林
 * [视频: 美国记者反驳穆斯林学生](http://club.kdnet.net/dispbbs.asp?boardid=1&id=11753538)
+* [美国法律中的亵渎宗教与言论自由](articles/weibo/201608_us_law_and_islam/main.md)
 
 ## 如何遏制
 * [如何解决穆斯林日益壮大的问题？ - 柏油的回答 - 知乎](articles/zhihu/201607_how_to_solve_muslim_problem/main.md)
