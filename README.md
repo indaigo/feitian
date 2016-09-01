@@ -17,9 +17,7 @@
 # 相关文章
 ## 剖析伊斯兰
 
-###伊斯兰传统习俗
-* [遮面是穆斯林女性的传统服饰吗? (编者题)](articles/zhihu/201505_zhemian_shi_chuantong_ma/main.md)
-* [驳斥女性割礼与伊斯兰无关的谎言及其他](articles/weibo/201407_islam_and_geli/main.md)
+
 
 ###伊斯兰历史
 * [视频: 我们因何而恐惧，一个一千四百年的秘密(QQ视频版本)](http://v.qq.com/x/page/y0316ixcy13.html) 伊斯兰一千四百年以来的扩张历史表明: 伊斯兰的本质和扩张的秘密在于对非伊斯兰教的"异端"持续的迫害,残暴战争和残忍杀戮
@@ -52,6 +50,8 @@
 * [伊斯兰问题，还是阿拉伯问题？](articles/blog/201512_islam_or_arabic_problem/main.md) 非常深刻的分析
 * [2010 年开始的阿拉伯之春，到 2015 年，北非以及中东地区的格局有何变化或发展趋势？](articles/zhihu/201502_middle_east_politics_analysing/main.md)
 
+##伊斯兰传统习俗
+
 ### 吃
 * [关于抵制宗教食品运动](articles/weibo/201606_guan_yu_di_zhi/main.md) 编者评: 黄金左手让人怕怕
 * [关注清真食品安全与健康](articles/weibo/201608_halal_food_and_health/main.md)
@@ -62,8 +62,13 @@
 * [再说清真：民俗+宗教=隔离？](articles/weibo/201607_qingzhen_minsu_zongjiao/main.md)
 
 ### 穿
+* [遮面是穆斯林女性的传统服饰吗? (编者题)](articles/zhihu/201505_zhemian_shi_chuantong_ma/main.md)
 * [视频:罩袍背后 中国应该如何看待穆斯林“罩袍现象”](http://tv.cntv.cn/video/C11120/6fd2fd74db883dde9f9835430a4e5c44) ([youtube版本](https://www.youtube.com/watch?v=BEL7FcXK1Vc))
 * [遇见极端宗教服饰怎么办？](articles/weibo/201607_ji_duan_fu_shi/main.md)
+* [一篇文章告诉你全世界都在抵制蒙面罩袍](articles/weixin/201608_dizhi_zhaopao/main.md)
+
+### 其他
+* [驳斥女性割礼与伊斯兰无关的谎言及其他](articles/weibo/201407_islam_and_geli/main.md)
 
 ## 伊斯兰侵蚀下的现代国家
 ### 中国与穆斯林
