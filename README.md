@@ -31,6 +31,7 @@
 	* [伊斯兰往事1：不虔诚的凯末尔](articles/weibo/201608_islam_history1/main.md)
 	* [伊斯兰往事2：我是霍梅尼，我为安拉代言（上）](articles/weibo/201608_islam_history2/main.md)
 	* [伊斯兰往事2：我是霍梅尼，我为安拉代言（下）](articles/weibo/201608_islam_history3/main.md)
+* [波斯皇帝叶兹格德三世给穆斯林哈里发欧麦尔的回信](articles/weibo/201608_boshi_huangdi/main.md)
 
 ###伊斯兰教义
 * [从经文分析为什么伊斯兰和其他文明不可能兼容(编者题)](articles/zhihu/201607_jiaoyi_buneng_jianrong/main.md)
