@@ -9,15 +9,14 @@
 # 相关微博帐号
 **下面这些微博帐号是编者整理的,能让大家更深入了解伊斯兰的方方面面和本质,请大家关注他们**
 
-* [灵异档案员王昙](http://m.weibo.cn/u/2981083181) [王昙的清真书橱](http://m.weibo.cn/u/5676163189) [爱读书的清真君](http://m.weibo.cn/u/5970176831) [太簇](http://m.weibo.cn/u/1228151340)  [涂涂南红](http://m.weibo.cn/u/1431843524) [马前卒](http://m.weibo.cn/u/2001863161) [浪舞草蜢](http://m.weibo.cn/u/3945267902) [寞洑](http://m.weibo.cn/u/1242799883) [安然cn](http://m.weibo.cn/u/2042052593) [轻轻闲影-
+* [灵异档案员王昙](http://m.weibo.cn/u/2981083181) [王昙的清真书橱](http://m.weibo.cn/u/5676163189) [爱读书的清真君](http://m.weibo.cn/u/5970176831) [國際友人蔡小英](http://m.weibo.cn/529001223) [太簇](http://m.weibo.cn/u/1228151340)  [涂涂南红](http://m.weibo.cn/u/1431843524) [马前卒](http://m.weibo.cn/u/2001863161) [浪舞草蜢](http://m.weibo.cn/u/3945267902) [寞洑](http://m.weibo.cn/u/1242799883) [安然cn](http://m.weibo.cn/u/2042052593) [轻轻闲影-
 ](http://m.weibo.cn/u/3844773596) [反伊女权者](http://m.weibo.cn/u/5999366630) [德玛西亚希](http://m.weibo.cn/u/5214885391) [打屁虫先生](http://m.weibo.cn/u/5977473247?) [华夏人文堂](http://m.weibo.cn/u/5999716175)
 * [习五一](http://m.weibo.cn/u/1442246695) [崔紫剑同志](http://m.weibo.cn/u/1657156945) [利剑反恐](http://m.weibo.cn/u/5183790186)
 * [PETG善待绿色组织](http://m.weibo.cn/u/3138561560) [穆罕默德的小羊](http://m.weibo.cn/u/5765378903) [咖啡乐园茶叶多](http://m.weibo.cn/u/5880774972) [反绿运动联盟](http://m.weibo.cn/u/1360086840) [法兰西微语](http://m.weibo.cn/u/2335625480)
 
 # 相关文章
+
 ## 剖析伊斯兰
-
-
 
 ###伊斯兰历史
 * [视频: 我们因何而恐惧，一个一千四百年的秘密(QQ视频版本)](http://v.qq.com/x/page/y0316ixcy13.html) 伊斯兰一千四百年以来的扩张历史表明: 伊斯兰的本质和扩张的秘密在于对非伊斯兰教的"异端"持续的迫害,残暴战争和残忍杀戮
@@ -55,6 +54,7 @@
 ### 吃
 * [关于抵制宗教食品运动](articles/weibo/201606_guan_yu_di_zhi/main.md) 编者评: 黄金左手让人怕怕
 * [关注清真食品安全与健康](articles/weibo/201608_halal_food_and_health/main.md)
+* [为什么穆斯林不能吃猪肉，以及这么多年来猪背负的各类谣言……](articles/weibo/201606_buneng_chi_zhurou/main.md)
 * 牛肉面和回族
 	* [为什么兰州牛肉面不好吃呢？](articles/weibo/201605_lan_zhou_niu_rou_mian/main.md)
 	* [视频: 牛肉面的起源和香料](http://v.youku.com/v_show/id_XMTY1Njk4NjE2MA==.html)
@@ -88,6 +88,7 @@
 * [视频: 日益穆斯林化的英国, 不寒而栗。](http://m.weibo.cn/1410071074/E0wqC5TIw) 一个英国女孩回到家乡拍摄的令她万分沮丧的视频
 * [视频: 英国穆斯林群体的极端化](http://weibo.com/p/230444212ed148ed875ece488f8447decc0a27), "伊斯兰教因其教义中严格的排他性和封闭性设定，始终有自我极端化倾向，该倾向并不因其在东方或西方、“专制”或“民主”中而不同——事实上无论在哪，这种极端倾向都会随着教众聚集，自然而然的显露出来，同时伴生着迫使你服从或皈依的渴望——看看英国人的经验。"
 * [视频: 布鲁塞尔将成为穆斯林之都](http://weibo.com/5590704704/DAwXXrvi4) ([youtube版](https://www.youtube.com/watch?v=W-lqrw8mJq4)) 该片拍摄在布鲁塞尔伊斯兰恐怖袭击之前（2016年3月22日）。题为：“布鲁塞尔将成为穆斯林之都”。布鲁塞尔当地穆斯林社区在暴恐后的欢庆与暴恐前保护恐怖分子和警察对抗令世人震惊。
+* [视频: 大门洞开——被挟迫的欧洲](https://www.youtube.com/watch?v=aZm0tUMPmvo) 国内已被删除,这里是youtube版需要翻墙
 * [视频: 西方眼睁睁看着末日降临 马克·斯坦恩访谈](http://v.youku.com/v_show/id_XNjMxNzYyMTY4.html)
 
 ### 美国与穆斯林
