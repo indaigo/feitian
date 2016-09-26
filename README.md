@@ -10,9 +10,9 @@
 **下面这些微博帐号是编者整理的,能让大家更深入了解伊斯兰的方方面面和本质,请大家关注他们**
 
 * [灵异档案员王昙](http://m.weibo.cn/u/2981083181) [王昙的清真书橱](http://m.weibo.cn/u/5676163189) [爱读书的清真君](http://m.weibo.cn/u/5970176831) [國際友人蔡小英](http://m.weibo.cn/529001223) [太簇](http://m.weibo.cn/u/1228151340)  [涂涂南红](http://m.weibo.cn/u/1431843524) [马前卒](http://m.weibo.cn/u/2001863161) [草蜢一号](http://m.weibo.cn/u/6014403348) [寞洑](http://m.weibo.cn/u/1242799883) [安然cn](http://m.weibo.cn/u/2042052593) [轻轻闲影-
-](http://m.weibo.cn/u/3844773596) [反伊女权者](http://m.weibo.cn/u/5999366630) [德玛西亚希](http://m.weibo.cn/u/5214885391) [打屁虫先生](http://m.weibo.cn/u/5977473247?) [华夏人文堂](http://m.weibo.cn/u/5999716175)
+](http://m.weibo.cn/u/3844773596) [反伊女权者](http://m.weibo.cn/u/5999366630) [德玛西亚希](http://m.weibo.cn/u/5214885391) [打屁虫先生](http://m.weibo.cn/u/5977473247?) [华夏人文堂](http://m.weibo.cn/u/5999716175) [战争史研究WHS](http://m.weibo.cn/u/2794283127)
 * [习五一](http://m.weibo.cn/u/1442246695) [崔紫剑同志](http://m.weibo.cn/u/1657156945) [利剑反恐](http://m.weibo.cn/u/5183790186)
-* [PETG善待绿色组织](http://m.weibo.cn/u/3138561560) [穆罕默德的小羊](http://m.weibo.cn/u/5765378903) [咖啡乐园茶叶多](http://m.weibo.cn/u/5880774972) [反绿运动联盟](http://m.weibo.cn/u/1360086840) [法兰西微语](http://m.weibo.cn/u/2335625480) [穆民新闻评论](http://m.weibo.cn/u/5303777305)
+* [PETG善待绿色组织](http://m.weibo.cn/u/3138561560) [穆罕默德的小羊](http://m.weibo.cn/u/5765378903) [咖啡乐园茶叶多](http://m.weibo.cn/u/5880774972) [反绿运动联盟](http://m.weibo.cn/u/1360086840) [法兰西微语](http://m.weibo.cn/u/2335625480) [穆民新闻评论](http://m.weibo.cn/u/5303777305) [猪肉美食神教](http://m.weibo.cn/u/2059671167)
 
 # 相关文章
 
@@ -71,6 +71,10 @@
 * [驳斥女性割礼与伊斯兰无关的谎言及其他](articles/weibo/201407_islam_and_geli/main.md)
 
 ## 伊斯兰侵蚀下的现代国家
+
+### 中东穆斯林难民
+* [首先他们不是普通的难民，而是中东的穆斯林——我关于难民问题的看法](articles/weixin/201609_manmin_wenti/main.md)
+
 ### 中国与穆斯林
 * [无可回避的挑战------中国与伊斯兰](articles/zhihu/201607_wu_ke_hui_bi_de_tiao_zhan/main.md)
 * [自媒体时代的"穆黑"(编者题)](articles/zhihu/201607_nao_jin_ji_zhuan_wan_he_mu_hei/main.md) 作者曰: 既造因业，便有业果!
