@@ -87,6 +87,7 @@
 ### 正确对待穆斯林的国家: 日本,西班牙
 * [那个几乎没有穆斯林的世界](articles/weixin/201607_japan_and_muslim/main.md) 编者评: 中国可以借鉴日本的经验
 * [西班牙成功去伊斯兰化过程的意义和借鉴](articles/weibo/201607_spain_remove_yislam/main.md)
+	* [西班牙是如何驱逐穆斯林的？ - 卡夫卡斯的回答 - 知乎](articles/zhihu/201609_xibanya_quzhu/main.md)
 
 ### 欧洲斯坦进行时
 * [视频: 日益穆斯林化的英国, 不寒而栗。](http://m.weibo.cn/1410071074/E0wqC5TIw) 一个英国女孩回到家乡拍摄的令她万分沮丧的视频
