@@ -101,6 +101,7 @@
 * [视频: 美国记者反驳穆斯林学生](http://club.kdnet.net/dispbbs.asp?boardid=1&id=11753538)
 * [美国法律中的亵渎宗教与言论自由](articles/weibo/201608_us_law_and_islam/main.md)
 * [视频: BBC【仇恨的美国: 穆斯林遭受攻击】伊斯兰信徒何去何从](http://www.acfun.tv/v/ac3063855)
+* [吉哈德之歌](articles/zhihu/201609_jihade_zhige/main.md)
 
 ## 如何遏制
 * [如何解决穆斯林日益壮大的问题？ - 柏油的回答 - 知乎](articles/zhihu/201607_how_to_solve_muslim_problem/main.md)
