@@ -86,6 +86,7 @@
 * [中国穆斯林的几次窝里斗](articles/weibo/201608_muslim_fight_internally/main.md) ,"回回争教门，争来争去杀汉人"
 * [国内伊教徒有退教自由吗？](articles/weibo/201608_zhongguo_tuijiao/main.md)
 * [中国未来最可怕的祸患在于新疆](articles/zhihu/201608_zhongguo_huohuan/main.md)
+* [西北落后农村宗教中的教育](articles/weibo/201609_xibei_luohou_nongchun_zongjiao/main.md)
 
 ### 正确对待穆斯林的国家: 日本,西班牙
 * [那个几乎没有穆斯林的世界](articles/weixin/201607_japan_and_muslim/main.md) 编者评: 中国可以借鉴日本的经验

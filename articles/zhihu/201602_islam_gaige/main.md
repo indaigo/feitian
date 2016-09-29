@@ -1,6 +1,6 @@
 # 伊斯兰教有可能迎来「宗教改革」吗？ - 鱼吞舟的回答 - 知乎
 
-* 作者：鱼吞舟
+* 作者：[鱼吞舟](https://www.zhihu.com/people/yu-tun-zhou-83)
 * [原链接](https://www.zhihu.com/question/35945267/answer/84998123)
 
 将一篇半成品文章贴出来，也许能解答题主的疑惑。
