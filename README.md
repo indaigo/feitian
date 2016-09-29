@@ -56,6 +56,7 @@
 * [关于抵制宗教食品运动](articles/weibo/201606_guan_yu_di_zhi/main.md) 编者评: 黄金左手让人怕怕
 * [关注清真食品安全与健康](articles/weibo/201608_halal_food_and_health/main.md)
 * [为什么穆斯林不能吃猪肉，以及这么多年来猪背负的各类谣言……](articles/weibo/201606_buneng_chi_zhurou/main.md)
+* [关于清真食品，谁侮辱了你，你又侮辱了谁？](articles/weibo/201609_qingzhen_wuru/main.md)
 * 牛肉面和回族
 	* [为什么兰州牛肉面不好吃呢？](articles/weibo/201605_lan_zhou_niu_rou_mian/main.md)
 	* [视频: 牛肉面的起源和香料](http://v.youku.com/v_show/id_XMTY1Njk4NjE2MA==.html)
