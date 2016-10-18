@@ -69,6 +69,7 @@
 * [视频:罩袍背后 中国应该如何看待穆斯林“罩袍现象”](http://tv.cntv.cn/video/C11120/6fd2fd74db883dde9f9835430a4e5c44) ([youtube版本](https://www.youtube.com/watch?v=BEL7FcXK1Vc),需翻)
 * [遇见极端宗教服饰怎么办？](articles/weibo/201607_ji_duan_fu_shi/main.md)
 * [一篇文章告诉你全世界都在抵制蒙面罩袍](articles/weixin/201608_dizhi_zhaopao/main.md)
+* [为什么我认为戴头巾的穆斯林女性很迷人？ - Santi Pan 的回答](articles/zhihu/201610_toujin/main.md)
 
 ### 其他
 * [驳斥女性割礼与伊斯兰无关的谎言及其他](articles/weibo/201407_islam_and_geli/main.md)
