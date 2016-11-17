@@ -50,6 +50,7 @@
 * [中东地区是否存在温和派穆斯林？](articles/weibo/201607_middle_east_moderate_muslim/main.md)
 * [伊斯兰问题，还是阿拉伯问题？](articles/blog/201512_islam_or_arabic_problem/main.md) 非常深刻的分析
 * [2010 年开始的阿拉伯之春，到 2015 年，北非以及中东地区的格局有何变化或发展趋势？](articles/zhihu/201502_middle_east_politics_analysing/main.md)
+* [一个从沙特工作回来的国人的对伊斯兰教以及沙特的观感](articles/weibo/201411_guoren_shate_guangan/main.md)
 
 ##伊斯兰传统习俗
 
@@ -78,6 +79,10 @@
 
 ### 中东穆斯林难民
 * [首先他们不是普通的难民，而是中东的穆斯林——我关于难民问题的看法](articles/weixin/201609_manmin_wenti/main.md)
+
+### 正信派专辑
+* [支持男女平等、禁止诅咒非穆斯林的伊斯兰教流派——正信派正式成立](articles/zhihu/201611_zhengxin_chengli/main.md)
+* [为什么要旗帜鲜明的去反对——穆斯林女性穿罩袍戴头巾的行为？](articles/zhihu/201611_zhengxin_fandui_zhaopao/main.md)
 
 ### 中国与穆斯林
 * [无可回避的挑战------中国与伊斯兰](articles/zhihu/201607_wu_ke_hui_bi_de_tiao_zhan/main.md)
