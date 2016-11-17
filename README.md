@@ -83,10 +83,13 @@
 ### 正信派专辑
 * [支持男女平等、禁止诅咒非穆斯林的伊斯兰教流派——正信派正式成立](articles/zhihu/201611_zhengxin_chengli/main.md)
 * [为什么要旗帜鲜明的去反对——穆斯林女性穿罩袍戴头巾的行为？](articles/zhihu/201611_zhengxin_fandui_zhaopao/main.md)
+* [到底什么才是真正的穆斯林？](articles/weibo/201611_zhengxin_zhenzheng_msl/main.md)
 
 ### 中国与穆斯林
+* [有斐阁：当前伊斯兰教在中国传播的几个特点](articles/weibo/201609_ysl_chuanbo_tedian/main.md): 2006年左右的文章,当时的预言很多已经成真
 * [无可回避的挑战------中国与伊斯兰](articles/zhihu/201607_wu_ke_hui_bi_de_tiao_zhan/main.md)
 * [自媒体时代的"穆黑"(编者题)](articles/zhihu/201607_nao_jin_ji_zhuan_wan_he_mu_hei/main.md) 作者曰: 既造因业，便有业果!
+* [科普●什么是穆黑？](articles/weibo/201610_shenme_shi_muhei/main.md)
 * [中国伊斯兰的阶层和派系(编者题)](articles/zhihu/201606_yisilan_jieceng_paixi/main.md)
 * [一个不信仰伊斯兰的维吾尔，还能是维吾尔吗？](articles/weixin/201608_islam_and_uygur/main.md)
 * [中国穆斯林的几次窝里斗](articles/weibo/201608_muslim_fight_internally/main.md) ,"回回争教门，争来争去杀汉人"
