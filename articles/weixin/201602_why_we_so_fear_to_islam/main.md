@@ -1,6 +1,9 @@
 # 我们因何而恐惧？伊斯兰教一千四百年扩展的秘密
 
-* [原链接](http://chuansong.me/n/2443041)
+* [文字版原链接](http://chuansong.me/n/2443041)
+* [QQ视频版本](http://v.qq.com/x/page/y0316ixcy13.html)
+* [爱奇异版本](http://www.iqiyi.com/w_19rrylp8kl.html)
+* [youtube版本(需翻墙)](https://www.youtube.com/watch?v=_xDODMbKYec)
 
 这个课程的ppt讲座讲员，即比尔·华纳博士是美国的物理学家，他取得过量子物理及数学专业博士学位，担任过大学教授、创办过企业，同时他也是一名应用物理学家。华纳博士一直致力于对宗教和历史问题的研究，近年来他创立了“政治伊斯兰研究中心”，写作、出版了十余本有关伊斯兰的著作。
 
