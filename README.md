@@ -84,6 +84,7 @@
 * [支持男女平等、禁止诅咒非穆斯林的伊斯兰教流派——正信派正式成立](articles/zhihu/201611_zhengxin_chengli/main.md)
 * [为什么要旗帜鲜明的去反对——穆斯林女性穿罩袍戴头巾的行为？](articles/zhihu/201611_zhengxin_fandui_zhaopao/main.md)
 * [到底什么才是真正的穆斯林？](articles/weibo/201611_zhengxin_zhenzheng_msl/main.md)
+* [作为一个回族，为什么我会抵制清真餐](articles/weibo/201611_huizu_qingzhencan/main.md)
 
 ### 中国与穆斯林
 * [有斐阁：当前伊斯兰教在中国传播的几个特点](articles/weibo/201609_ysl_chuanbo_tedian/main.md): 2006年左右的文章,当时的预言很多已经成真
