@@ -14,6 +14,9 @@
 * [习五一](http://m.weibo.cn/u/1442246695) [崔紫剑同志](http://m.weibo.cn/u/1657156945) [利剑反恐](http://m.weibo.cn/u/5183790186)
 * [PETG善待绿色组织](http://m.weibo.cn/u/3138561560) [穆罕默德的小羊](http://m.weibo.cn/u/5765378903) [咖啡乐园茶叶多](http://m.weibo.cn/u/5880774972) [反绿运动联盟](http://m.weibo.cn/u/1360086840) [法兰西微语](http://m.weibo.cn/u/2335625480) [穆民新闻评论](http://m.weibo.cn/u/5303777305) [猪肉美食神教](http://m.weibo.cn/u/2059671167)
 
+# 相关图片
+* [伊斯兰奇图怪谈](res/README.md)
+
 # 相关文章
 
 ## 剖析伊斯兰

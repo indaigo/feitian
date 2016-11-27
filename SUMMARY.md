@@ -2,6 +2,10 @@
 
 - - -
 
+* [伊斯兰奇图怪谈](res/README.md)
+
+- - -
+
 * 剖析伊斯兰
     * 伊斯兰历史
         * [我们因何而恐惧，一个一千四百年的秘密](articles/weixin/201602_why_we_so_fear_to_islam/main.md)
