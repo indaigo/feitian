@@ -74,6 +74,7 @@
 * [遇见极端宗教服饰怎么办？](articles/weibo/201607_ji_duan_fu_shi/main.md)
 * [一篇文章告诉你全世界都在抵制蒙面罩袍](articles/weixin/201608_dizhi_zhaopao/main.md)
 * [为什么我认为戴头巾的穆斯林女性很迷人？ - Santi Pan 的回答](articles/zhihu/201610_toujin/main.md)
+* [如何正确看待伊斯兰教女性的戴头巾、罩袍和布基尼？](articles/weibo/201611_toujin_zhaopao_bujini/main.md)
 
 ### 其他
 * [驳斥女性割礼与伊斯兰无关的谎言及其他](articles/weibo/201407_islam_and_geli/main.md)
