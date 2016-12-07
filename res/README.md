@@ -27,3 +27,15 @@
 ## 伊斯兰父亲
 ![](strange_speaking/muslim_father_1.jpg)
 ![](strange_speaking/muslim_father_2.jpg)
+
+## 政治正确
+![](caricature/political_correct.jpg)
+
+## 清真逻辑
+![](caricature/qingzhen_luoji.jpg)
+
+## 清真书记算个dior
+![](caricature/shuji_suange_dior.jpg)
+
+## 伊斯兰式洗地
+![](caricature/ysl_xidi.jpg)
