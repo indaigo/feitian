@@ -77,17 +77,23 @@
         * [到底什么才是真正的穆斯林？](articles/weibo/201611_zhengxin_zhenzheng_msl/main.md)
         * [作为一个回族，为什么我会抵制清真餐](articles/weibo/201611_huizu_qingzhencan/main.md)
 
-    * 中国与穆斯林
-        * [有斐阁：当前伊斯兰教在中国传播的几个特点](articles/weibo/201609_ysl_chuanbo_tedian/main.md): 2006年左右的文章,当时的预言很多已经成真
-        * [无可回避的挑战------中国与伊斯兰](articles/zhihu/201607_wu_ke_hui_bi_de_tiao_zhan/main.md)
-        * [自媒体时代的"穆黑"(编者题)](articles/zhihu/201607_nao_jin_ji_zhuan_wan_he_mu_hei/main.md) 作者曰: 既造因业，便有业果!
-        * [科普●什么是穆黑？](articles/weibo/201610_shenme_shi_muhei/main.md)
-        * [中国伊斯兰的阶层和派系(编者题)](articles/zhihu/201606_yisilan_jieceng_paixi/main.md)
-        * [一个不信仰伊斯兰的维吾尔，还能是维吾尔吗？](articles/weixin/201608_islam_and_uygur/main.md)
-        * [中国穆斯林的几次窝里斗](articles/weibo/201608_muslim_fight_internally/main.md) ,"回回争教门，争来争去杀汉人"
-        * [国内伊教徒有退教自由吗？](articles/weibo/201608_zhongguo_tuijiao/main.md)
-        * [中国未来最可怕的祸患在于新疆](articles/zhihu/201608_zhongguo_huohuan/main.md)
-        * [西北落后农村宗教中的教育](articles/weibo/201609_xibei_luohou_nongchun_zongjiao/main.md)
+	* 中国与穆斯林
+        * 中国伊斯兰
+            * [有斐阁：当前伊斯兰教在中国传播的几个特点](articles/weibo/201609_ysl_chuanbo_tedian/main.md): 2006年左右的文章,当时的预言很多已经成真
+            * [无可回避的挑战------中国与伊斯兰](articles/zhihu/201607_wu_ke_hui_bi_de_tiao_zhan/main.md)
+            * [中国伊斯兰的阶层和派系(编者题)](articles/zhihu/201606_yisilan_jieceng_paixi/main.md)
+            * [国内伊教徒有退教自由吗？](articles/weibo/201608_zhongguo_tuijiao/main.md)
+        * 中国互联网与伊斯兰
+            * [自媒体时代的"穆黑"(编者题)](articles/zhihu/201607_nao_jin_ji_zhuan_wan_he_mu_hei/main.md) 作者曰: 既造因业，便有业果!
+            * [科普●什么是穆黑？](articles/weibo/201610_shenme_shi_muhei/main.md)
+
+        * 西北
+            * [一个不信仰伊斯兰的维吾尔，还能是维吾尔吗？](articles/weixin/201608_islam_and_uygur/main.md)
+            * [中国未来最可怕的祸患在于新疆](articles/zhihu/201608_zhongguo_huohuan/main.md)
+            * [西北落后农村宗教中的教育](articles/weibo/201609_xibei_luohou_nongchun_zongjiao/main.md)
+        * 暴力
+            * [中国穆斯林的几次窝里斗](articles/weibo/201608_muslim_fight_internally/main.md) ,"回回争教门，争来争去杀汉人"
+            * [【以史为鉴】我和回汉关系— 我所经历的07年阳信事件](articles/weibo/201612_2007_xinyang/main.md)
 
     * 正确对待穆斯林的国家: 日本,西班牙
         * [那个几乎没有穆斯林的世界](articles/weixin/201607_japan_and_muslim/main.md) 编者评: 中国可以借鉴日本的经验

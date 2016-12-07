@@ -1,5 +1,6 @@
 # 关于
-创建本项目的目的是为了帮助更多的人能更深入地了解伊斯兰教.内容多整理自网络,如相关的作者不希望收录请在[反馈区](https://github.com/indaigo/feitian/issues)反馈删除.
+* 创建本项目的目的是为了帮助更多的人能更深入地了解伊斯兰教.内容多整理自网络,如相关的作者不希望收录请在[反馈区](https://github.com/indaigo/feitian/issues)反馈删除.
+* [gitbook链接](https://indaigo.gitbooks.io/feitian/content/)
 
 # 相关社区
 * 本项目聊天室: [![Join the chat at https://gitter.im/indaigo/feitian](https://badges.gitter.im/indaigo/feitian.svg)](https://gitter.im/indaigo/feitian?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -10,7 +11,7 @@
 **下面这些微博帐号是编者整理的,能让大家更深入了解伊斯兰的方方面面和本质,请大家关注他们**
 
 * [灵异档案员王昙](http://m.weibo.cn/u/2981083181) [王昙的清真书橱](http://m.weibo.cn/u/5676163189) [爱读书的清真君](http://m.weibo.cn/u/5970176831) [國際友人蔡小英](http://m.weibo.cn/529001223) [太簇](http://m.weibo.cn/u/1228151340)  [涂涂南红](http://m.weibo.cn/u/1431843524) [马前卒](http://m.weibo.cn/u/2001863161) [草蜢一号](http://m.weibo.cn/u/6014403348) [寞洑](http://m.weibo.cn/u/1242799883) [安然cn](http://m.weibo.cn/u/2042052593) [轻轻闲影-
-](http://m.weibo.cn/u/3844773596) [反伊女权者](http://m.weibo.cn/u/5999366630) [德玛西亚希](http://m.weibo.cn/u/5214885391) [打屁虫先生](http://m.weibo.cn/u/5977473247?) [华夏人文堂](http://m.weibo.cn/u/5999716175) [战争史研究WHS](http://m.weibo.cn/u/2794283127)
+](http://m.weibo.cn/u/3844773596) [反伊女权者](http://m.weibo.cn/u/5999366630) [德玛西亚希](http://m.weibo.cn/u/5214885391) [打屁虫先生](http://m.weibo.cn/u/5977473247?) [华夏人文堂](http://m.weibo.cn/u/5999716175) [战争史研究WHS](http://m.weibo.cn/u/2794283127) [大汉之鹰001](https://m.weibo.cn/u/6011197455) [糊今烧麦](http://m.weibo.cn/u/5339433801) [我西门吹雪](http://m.weibo.cn/u/5908283106)
 * [习五一](http://m.weibo.cn/u/1442246695) [崔紫剑同志](http://m.weibo.cn/u/1657156945) [利剑反恐](http://m.weibo.cn/u/5183790186)
 * [PETG善待绿色组织](http://m.weibo.cn/u/3138561560) [穆罕默德的小羊](http://m.weibo.cn/u/5765378903) [咖啡乐园茶叶多](http://m.weibo.cn/u/5880774972) [反绿运动联盟](http://m.weibo.cn/u/1360086840) [法兰西微语](http://m.weibo.cn/u/2335625480) [穆民新闻评论](http://m.weibo.cn/u/5303777305) [猪肉美食神教](http://m.weibo.cn/u/2059671167)
 
@@ -91,16 +92,22 @@
 * [作为一个回族，为什么我会抵制清真餐](articles/weibo/201611_huizu_qingzhencan/main.md)
 
 ### 中国与穆斯林
-* [有斐阁：当前伊斯兰教在中国传播的几个特点](articles/weibo/201609_ysl_chuanbo_tedian/main.md): 2006年左右的文章,当时的预言很多已经成真
-* [无可回避的挑战------中国与伊斯兰](articles/zhihu/201607_wu_ke_hui_bi_de_tiao_zhan/main.md)
-* [自媒体时代的"穆黑"(编者题)](articles/zhihu/201607_nao_jin_ji_zhuan_wan_he_mu_hei/main.md) 作者曰: 既造因业，便有业果!
-* [科普●什么是穆黑？](articles/weibo/201610_shenme_shi_muhei/main.md)
-* [中国伊斯兰的阶层和派系(编者题)](articles/zhihu/201606_yisilan_jieceng_paixi/main.md)
-* [一个不信仰伊斯兰的维吾尔，还能是维吾尔吗？](articles/weixin/201608_islam_and_uygur/main.md)
-* [中国穆斯林的几次窝里斗](articles/weibo/201608_muslim_fight_internally/main.md) ,"回回争教门，争来争去杀汉人"
-* [国内伊教徒有退教自由吗？](articles/weibo/201608_zhongguo_tuijiao/main.md)
-* [中国未来最可怕的祸患在于新疆](articles/zhihu/201608_zhongguo_huohuan/main.md)
-* [西北落后农村宗教中的教育](articles/weibo/201609_xibei_luohou_nongchun_zongjiao/main.md)
+* 中国伊斯兰
+    * [有斐阁：当前伊斯兰教在中国传播的几个特点](articles/weibo/201609_ysl_chuanbo_tedian/main.md): 2006年左右的文章,当时的预言很多已经成真
+    * [无可回避的挑战------中国与伊斯兰](articles/zhihu/201607_wu_ke_hui_bi_de_tiao_zhan/main.md)
+    * [中国伊斯兰的阶层和派系(编者题)](articles/zhihu/201606_yisilan_jieceng_paixi/main.md)
+    * [国内伊教徒有退教自由吗？](articles/weibo/201608_zhongguo_tuijiao/main.md)
+* 中国互联网与伊斯兰
+	* [自媒体时代的"穆黑"(编者题)](articles/zhihu/201607_nao_jin_ji_zhuan_wan_he_mu_hei/main.md) 作者曰: 既造因业，便有业果!
+	* [科普●什么是穆黑？](articles/weibo/201610_shenme_shi_muhei/main.md)
+
+* 西北
+	* [一个不信仰伊斯兰的维吾尔，还能是维吾尔吗？](articles/weixin/201608_islam_and_uygur/main.md)
+	* [中国未来最可怕的祸患在于新疆](articles/zhihu/201608_zhongguo_huohuan/main.md)
+	* [西北落后农村宗教中的教育](articles/weibo/201609_xibei_luohou_nongchun_zongjiao/main.md)
+* 暴力
+	* [中国穆斯林的几次窝里斗](articles/weibo/201608_muslim_fight_internally/main.md) ,"回回争教门，争来争去杀汉人"
+	* [【以史为鉴】我和回汉关系— 我所经历的07年阳信事件](articles/weibo/201612_2007_xinyang/main.md)
 
 ### 正确对待穆斯林的国家: 日本,西班牙
 * [那个几乎没有穆斯林的世界](articles/weixin/201607_japan_and_muslim/main.md) 编者评: 中国可以借鉴日本的经验
@@ -126,3 +133,6 @@
 ## 如何遏制
 * [如何解决穆斯林日益壮大的问题？ - 柏油的回答 - 知乎](articles/zhihu/201607_how_to_solve_muslim_problem/main.md)
 * [我，是怎么差一点就成了圣战者的...一场洗脑与反洗脑的斗争...](articles/weibo/201608_shengzhanzhe/main.md)
+
+## 无神论者的声音
+* [《暴走大事件》如果无神论也是一个宗教，会发生什么？](http://weibo.com/2718604160/EfY81iN8d) [QQ视频版](https://v.qq.com/x/cover/qr6rgkvd8jwvza4/d0343osy4u5.html)
