@@ -39,3 +39,6 @@
 
 ## 伊斯兰式洗地
 ![](caricature/ysl_xidi.jpg)
+
+## 不请真之老子干死你
+![](caricature/gansini.jpg)

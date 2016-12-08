@@ -93,6 +93,7 @@
             * [西北落后农村宗教中的教育](articles/weibo/201609_xibei_luohou_nongchun_zongjiao/main.md)
         * 暴力
             * [中国穆斯林的几次窝里斗](articles/weibo/201608_muslim_fight_internally/main.md) ,"回回争教门，争来争去杀汉人"
+            * [【以史为鉴】2004年 河南中牟事件 参考（转）](articles/weibo/201609_henan_zhongmou/main.md)
             * [【以史为鉴】我和回汉关系— 我所经历的07年阳信事件](articles/weibo/201612_2007_xinyang/main.md)
 
     * 正确对待穆斯林的国家: 日本,西班牙
