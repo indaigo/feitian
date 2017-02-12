@@ -2,7 +2,7 @@
 
 ## 车祸
 ![](caricature/car_crash.jpg)
-
+![](caricature/car_crash_zh.jpg)
 ## 民族团结大于天
 ![](caricature/dayutian.jpg)
 
@@ -42,3 +42,30 @@
 
 ## 不请真之老子干死你
 ![](caricature/gansini.jpg)
+
+## 伊斯兰与时代发展
+![](caricature/changing.png)
+
+## 穆中无人
+![](caricature/muzhongwuren.jpg)
+
+## 匈牙利边防警察用老母猪阻止穆斯林难民越境
+![](caricature/pig_refugee.jpg)
+
+## 清真生活方式
+![](caricature/qingzhen_life_style.jpg)
+
+## 美国士兵和圣战
+![](caricature/us_sodier1.jpg)
+
+## 美国士兵的72处女服务
+![](caricature/us_sodier2.jpg)
+
+## 小燕子说得好
+![](caricature/xiangfei_anla.jpg)
+
+## 学习清真
+![](caricature/xuexi.jpg)
+
+## 伊斯兰的科学定律
+![](caricature/ysl_kexue.jpg)

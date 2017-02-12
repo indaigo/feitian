@@ -11,9 +11,9 @@
 **下面这些微博帐号是编者整理的,能让大家更深入了解伊斯兰的方方面面和本质,请大家关注他们**
 
 * [灵异档案员王昙](http://m.weibo.cn/u/2981083181) [王昙的清真书橱](http://m.weibo.cn/u/5676163189) [爱读书的清真君](http://m.weibo.cn/u/5970176831) [國際友人蔡小英](http://m.weibo.cn/529001223) [太簇](http://m.weibo.cn/u/1228151340)  [涂涂南红](http://m.weibo.cn/u/1431843524) [马前卒](http://m.weibo.cn/u/2001863161) [草蜢一号](http://m.weibo.cn/u/6014403348) [寞洑](http://m.weibo.cn/u/1242799883) [安然cn](http://m.weibo.cn/u/2042052593) [轻轻闲影-
-](http://m.weibo.cn/u/3844773596) [反伊女权者](http://m.weibo.cn/u/5999366630) [德玛西亚希](http://m.weibo.cn/u/5214885391) [打屁虫先生](http://m.weibo.cn/u/5977473247?) [华夏人文堂](http://m.weibo.cn/u/5999716175) [战争史研究WHS](http://m.weibo.cn/u/2794283127) [大汉之鹰001](https://m.weibo.cn/u/6011197455) [糊今烧麦](http://m.weibo.cn/u/5339433801) [我西门吹雪](http://m.weibo.cn/u/5908283106)
-* [习五一](http://m.weibo.cn/u/1442246695) [崔紫剑同志](http://m.weibo.cn/u/1657156945) [利剑反恐](http://m.weibo.cn/u/5183790186)
-* [PETG善待绿色组织](http://m.weibo.cn/u/3138561560) [穆罕默德的小羊](http://m.weibo.cn/u/5765378903) [咖啡乐园茶叶多](http://m.weibo.cn/u/5880774972) [反绿运动联盟](http://m.weibo.cn/u/1360086840) [法兰西微语](http://m.weibo.cn/u/2335625480) [穆民新闻评论](http://m.weibo.cn/u/5303777305) [猪肉美食神教](http://m.weibo.cn/u/2059671167)
+](http://m.weibo.cn/u/3844773596) [反伊女权者](http://m.weibo.cn/u/5999366630) [德玛西亚希](http://m.weibo.cn/u/5214885391) [打屁虫先生](http://m.weibo.cn/u/5977473247?) [华夏人文堂](http://m.weibo.cn/u/5999716175) [战争史研究WHS](http://m.weibo.cn/u/2794283127) [大汉之鹰001](https://m.weibo.cn/u/6011197455) [糊今烧麦](http://m.weibo.cn/u/5339433801) [我西门吹雪](http://m.weibo.cn/u/5908283106) [被割大动脉的假先知](http://m.weibo.cn/u/5444558924)
+* [习五一](http://m.weibo.cn/u/1442246695) [崔紫剑同志](http://m.weibo.cn/u/1657156945) [利剑反恐](http://m.weibo.cn/u/5183790186) [深度News官网](http://m.weibo.cn/u/5590704704)
+* [PETG善待绿色组织](http://m.weibo.cn/u/3138561560) [穆罕默德的小羊](http://m.weibo.cn/u/5765378903) [咖啡乐园茶叶多](http://m.weibo.cn/u/5880774972) [反绿运动联盟](http://m.weibo.cn/u/1360086840) [法兰西微语](http://m.weibo.cn/u/2335625480) [穆民新闻评论](http://m.weibo.cn/u/5303777305) [猪肉美食神教](http://m.weibo.cn/u/2059671167) [被割大动脉的假先知](http://m.weibo.cn/u/5444558924)
 
 # 相关图片
 * [伊斯兰奇图怪谈](res/README.md)
@@ -35,6 +35,7 @@
 	* [伊斯兰往事3：埃及与泛阿拉伯主义的兴衰（上）](articles/weibo/201609_islam_history3/main.md)
 * [波斯皇帝叶兹格德三世给穆斯林哈里发欧麦尔的回信](articles/weibo/201608_boshi_huangdi/main.md)
 * [伊斯兰教有可能迎来「宗教改革」吗？ - 鱼吞舟的回答 - 知乎](articles/zhihu/201602_islam_gaige/main.md)
+* [全球五大宗教传播版图！ ](http://weibo.com/3903649070/EiBJEvXdS)
 
 ###伊斯兰教义
 * [从经文分析为什么伊斯兰和其他文明不可能兼容(编者题)](articles/zhihu/201607_jiaoyi_buneng_jianrong/main.md)
@@ -127,7 +128,11 @@
 * [视频: 西方眼睁睁看着末日降临 马克·斯坦恩访谈](http://v.youku.com/v_show/id_XNjMxNzYyMTY4.html)
 
 ### 美国与穆斯林
-* [视频: 美国记者反驳穆斯林学生](http://club.kdnet.net/dispbbs.asp?boardid=1&id=11753538)
+* 怼伊斯兰视频集合
+    * [视频: 美国记者反驳穆斯林学生](http://club.kdnet.net/dispbbs.asp?boardid=1&id=11753538)
+    * [视频: 犹太裔作家David Horowitz vs 温和阿拉伯裔穆斯林女生](http://tb-video.bdstatic.com/tieba-smallvideo/208_6daa58d85df105c9fc3366a7d528944c.mp4) ([youtube版本](https://www.youtube.com/watch?v=8fSvyv0urTE)) 看到最后你会对温和穆斯林感到一种透心的凉意
+    * [视频: 希腊裔英国右派同性恋毒舌作家Milo Yiannopoulos的演讲](http://weibo.com/6120793806/EtZnF3c3P) 看看观众里的穆斯林是怎样用毫无意义的嘶吼干扰他却又对他有理有据的论述无力反驳的
+    * [视频: Brigitte Gabriel的这段演讲详细解读激进伊斯兰在美国教育系统内的渗透策略，及其多年的实施给#美国#年轻一代及至整个社会的思维模式带来的恐怖变化.](http://v.youku.com/v_show/id_XMjUwMDIzMjEyOA==.html)
 * [美国法律中的亵渎宗教与言论自由](articles/weibo/201608_us_law_and_islam/main.md)
 * [视频: BBC【仇恨的美国: 穆斯林遭受攻击】伊斯兰信徒何去何从](http://www.acfun.tv/v/ac3063855)
 * [吉哈德之歌](articles/zhihu/201609_jihade_zhige/main.md)
