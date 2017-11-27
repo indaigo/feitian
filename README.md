@@ -10,10 +10,11 @@
 # 相关微博帐号
 **下面这些微博帐号是编者整理的,能让大家更深入了解伊斯兰的方方面面和本质,请大家关注他们**
 
-* [灵异档案员王昙](http://m.weibo.cn/u/2981083181) [王昙的清真书橱](http://m.weibo.cn/u/5676163189) [爱读书的清真君](http://m.weibo.cn/u/5970176831) [國際友人蔡小英](http://m.weibo.cn/529001223) [太簇](http://m.weibo.cn/u/1228151340)  [涂涂南红](http://m.weibo.cn/u/1431843524) [马前卒](http://m.weibo.cn/u/2001863161) [草蜢一号](http://m.weibo.cn/u/6014403348) [寞洑](http://m.weibo.cn/u/1242799883) [安然cn](http://m.weibo.cn/u/2042052593) [轻轻闲影-
+* [灵异档案员王昙](http://m.weibo.cn/u/2981083181) [王昙的清真书橱](http://m.weibo.cn/u/5676163189) [爱读书的清真君](http://m.weibo.cn/u/5970176831) [國際友人蔡小英](http://m.weibo.cn/529001223) [太簇](http://m.weibo.cn/u/1228151340)  [涂涂南红](http://m.weibo.cn/u/1431843524) [马前卒](http://m.weibo.cn/u/2001863161) [寞洑](http://m.weibo.cn/u/1242799883) [安然cn](http://m.weibo.cn/u/2042052593) [轻轻闲影-
 ](http://m.weibo.cn/u/3844773596) [反伊女权者](http://m.weibo.cn/u/5999366630) [德玛西亚希](http://m.weibo.cn/u/5214885391) [打屁虫先生](http://m.weibo.cn/u/5977473247?) [华夏人文堂](http://m.weibo.cn/u/5999716175) [战争史研究WHS](http://m.weibo.cn/u/2794283127) [大汉之鹰001](https://m.weibo.cn/u/6011197455) [糊今烧麦](http://m.weibo.cn/u/5339433801) [我西门吹雪](http://m.weibo.cn/u/5908283106) [被割大动脉的假先知](http://m.weibo.cn/u/5444558924)
 * [习五一](http://m.weibo.cn/u/1442246695) [崔紫剑同志](http://m.weibo.cn/u/1657156945) [利剑反恐](http://m.weibo.cn/u/5183790186) [深度News官网](http://m.weibo.cn/u/5590704704)
 * [PETG善待绿色组织](http://m.weibo.cn/u/3138561560) [穆罕默德的小羊](http://m.weibo.cn/u/5765378903) [咖啡乐园茶叶多](http://m.weibo.cn/u/5880774972) [反绿运动联盟](http://m.weibo.cn/u/1360086840) [法兰西微语](http://m.weibo.cn/u/2335625480) [穆民新闻评论](http://m.weibo.cn/u/5303777305) [猪肉美食神教](http://m.weibo.cn/u/2059671167) [被割大动脉的假先知](http://m.weibo.cn/u/5444558924)
+* [草蜢一号](http://m.weibo.cn/u/6014403348) [看把你们给能得](http://m.weibo.cn/u/6120793806)
 
 # 相关图片
 * [伊斯兰奇图怪谈](res/README.md)
@@ -22,7 +23,7 @@
 
 ## 剖析伊斯兰
 
-###伊斯兰历史
+### 伊斯兰历史
 * [视频: 我们因何而恐惧，一个一千四百年的秘密(QQ视频版本)](http://v.qq.com/x/page/y0316ixcy13.html) 伊斯兰一千四百年以来的扩张历史表明: 伊斯兰的本质和扩张的秘密在于对非伊斯兰教的"异端"持续的迫害,残暴战争和残忍杀戮
 	* [文字版](articles/weixin/201602_why_we_so_fear_to_islam/main.md)
 	* [爱奇异版本](http://www.iqiyi.com/w_19rrylp8kl.html) , [youtube版本(需翻墙)](https://www.youtube.com/watch?v=_xDODMbKYec)
@@ -37,7 +38,7 @@
 * [伊斯兰教有可能迎来「宗教改革」吗？ - 鱼吞舟的回答 - 知乎](articles/zhihu/201602_islam_gaige/main.md)
 * [全球五大宗教传播版图！ ](http://weibo.com/3903649070/EiBJEvXdS)
 
-###伊斯兰教义
+### 伊斯兰教义
 * [从经文分析为什么伊斯兰和其他文明不可能兼容(编者题)](articles/zhihu/201607_jiaoyi_buneng_jianrong/main.md)
 * [古兰经对不信者的惩罚仇视和诅咒(编者题)](articles/zhihu/201308_gulanjing_buxindao/main.md)
 * [总有人说我对古兰经的理解是断章取义，那么就来看看，古兰经的原文…](articles/weibo/201606_gulanjing_lijie/main.md)
@@ -48,7 +49,7 @@
 * [伊斯兰教徒们或许应该这么做？](articles/weibo/201605_muslin_should_do_this_way/main.md)
 * [为什么宗教的约束力要远远强于法律？](articles/zhihu/201608_why_religion_constrain_more_than_law/main.md)
 
-###伊斯兰派别
+### 伊斯兰派别
 * [伊斯兰教四大派别及中国伊斯兰教的派别](articles/misc/201110_yisilan_paibie/main.md)
 
 ### 中东和伊斯兰
@@ -57,7 +58,7 @@
 * [2010 年开始的阿拉伯之春，到 2015 年，北非以及中东地区的格局有何变化或发展趋势？](articles/zhihu/201502_middle_east_politics_analysing/main.md)
 * [一个从沙特工作回来的国人的对伊斯兰教以及沙特的观感](articles/weibo/201411_guoren_shate_guangan/main.md)
 
-##伊斯兰传统习俗
+## 伊斯兰传统习俗
 
 ### 吃
 * [关于抵制宗教食品运动](articles/weibo/201606_guan_yu_di_zhi/main.md) 编者评: 黄金左手让人怕怕
@@ -132,7 +133,7 @@
     * [视频: 美国记者反驳穆斯林学生](http://club.kdnet.net/dispbbs.asp?boardid=1&id=11753538)
     * [视频: 犹太裔作家David Horowitz vs 温和阿拉伯裔穆斯林女生](http://tb-video.bdstatic.com/tieba-smallvideo/208_6daa58d85df105c9fc3366a7d528944c.mp4) ([youtube版本](https://www.youtube.com/watch?v=8fSvyv0urTE)) 看到最后你会对温和穆斯林感到一种透心的凉意
     * [视频: 希腊裔英国右派同性恋毒舌作家Milo Yiannopoulos的演讲](http://weibo.com/6120793806/EtZnF3c3P) 看看观众里的穆斯林是怎样用毫无意义的嘶吼干扰他却又对他有理有据的论述无力反驳的
-    * [视频: Brigitte Gabriel的这段演讲详细解读激进伊斯兰在美国教育系统内的渗透策略，及其多年的实施给#美国#年轻一代及至整个社会的思维模式带来的恐怖变化.](http://v.youku.com/v_show/id_XMjUwMDIzMjEyOA==.html)
+    * [视频: Brigitte Gabriel的这段演讲详细解读激进伊斯兰在美国教育系统内的渗透策略，及其多年的实施给美国年轻一代及至整个社会的思维模式带来的恐怖变化.](http://v.youku.com/v_show/id_XMjUwMDIzMjEyOA==.html)
 * [美国法律中的亵渎宗教与言论自由](articles/weibo/201608_us_law_and_islam/main.md)
 * [视频: BBC【仇恨的美国: 穆斯林遭受攻击】伊斯兰信徒何去何从](http://www.acfun.tv/v/ac3063855)
 * [吉哈德之歌](articles/zhihu/201609_jihade_zhige/main.md)
