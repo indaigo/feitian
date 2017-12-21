@@ -84,7 +84,7 @@
 
 ## 伊斯兰侵蚀下的现代国家
 
-### 中东穆斯林难民
+### 中东伊斯兰教徒难民
 * [首先他们不是普通的难民，而是中东的穆斯林——我关于难民问题的看法](articles/weixin/201609_manmin_wenti/main.md)
 
 ### 正信派专辑
@@ -93,7 +93,7 @@
 * [到底什么才是真正的穆斯林？](articles/weibo/201611_zhengxin_zhenzheng_msl/main.md)
 * [作为一个回族，为什么我会抵制清真餐](articles/weibo/201611_huizu_qingzhencan/main.md)
 
-### 中国与穆斯林
+### 中国与伊斯兰教徒
 * 中国伊斯兰
     * [有斐阁：当前伊斯兰教在中国传播的几个特点](articles/weibo/201609_ysl_chuanbo_tedian/main.md): 2006年左右的文章,当时的预言很多已经成真
     * [无可回避的挑战------中国与伊斯兰](articles/zhihu/201607_wu_ke_hui_bi_de_tiao_zhan/main.md)
@@ -118,7 +118,7 @@
 * [西班牙成功去伊斯兰化过程的意义和借鉴](articles/weibo/201607_spain_remove_yislam/main.md)
 	* [西班牙是如何驱逐穆斯林的？ - 卡夫卡斯的回答 - 知乎](articles/zhihu/201609_xibanya_quzhu/main.md)
 
-### 东南亚的穆斯林
+### 东南亚的伊斯兰教徒
 * [《星洲日报》窥探汶莱伊斯兰刑法：当穆斯林占多数的时候，世俗社会无处容身](articles/blog/201610_wenlai_yisilan_xingfa/main.md)
 
 ### 欧洲斯坦进行时
@@ -128,14 +128,18 @@
 * [视频: 大门洞开——被挟迫的欧洲](https://www.youtube.com/watch?v=aZm0tUMPmvo) 国内已被删除,这里是youtube版需要翻墙
 * [视频: 西方眼睁睁看着末日降临 马克·斯坦恩访谈](http://v.youku.com/v_show/id_XNjMxNzYyMTY4.html)
 
-### 美国与穆斯林
+### 东欧与伊斯兰教徒
+* [让南斯拉夫上空的30万冤魂告诉天朝——宗教是一把切割国家的刀](https://weibo.com/ttarticle/p/show?id=2309404106974651385919)
+* [让独立10年后的科索沃告诉天朝某些不安份的垃圾：提不起裤子是啥感觉](https://weibo.com/ttarticle/p/show?id=2309404177537520528180)
+
+### 美国与伊斯兰教徒
 * 怼伊斯兰视频集合
-    * [视频: 美国记者反驳穆斯林学生](http://club.kdnet.net/dispbbs.asp?boardid=1&id=11753538)
+    * [视频: 美国记者反驳穆斯林学生](https://www.youtube.com/watch?v=Lv9GnVX9xQE)
     * [视频: 犹太裔作家David Horowitz vs 温和阿拉伯裔穆斯林女生](http://tb-video.bdstatic.com/tieba-smallvideo/208_6daa58d85df105c9fc3366a7d528944c.mp4) ([youtube版本](https://www.youtube.com/watch?v=8fSvyv0urTE)) 看到最后你会对温和穆斯林感到一种透心的凉意
     * [视频: 希腊裔英国右派同性恋毒舌作家Milo Yiannopoulos的演讲](http://weibo.com/6120793806/EtZnF3c3P) 看看观众里的穆斯林是怎样用毫无意义的嘶吼干扰他却又对他有理有据的论述无力反驳的
     * [视频: Brigitte Gabriel的这段演讲详细解读激进伊斯兰在美国教育系统内的渗透策略，及其多年的实施给美国年轻一代及至整个社会的思维模式带来的恐怖变化.](http://v.youku.com/v_show/id_XMjUwMDIzMjEyOA==.html)
 * [美国法律中的亵渎宗教与言论自由](articles/weibo/201608_us_law_and_islam/main.md)
-* [视频: BBC【仇恨的美国: 穆斯林遭受攻击】伊斯兰信徒何去何从](http://www.acfun.tv/v/ac3063855)
+* [视频: BBC【仇恨的美国: 穆斯林遭受攻击】伊斯兰信徒何去何从](https://open.163.com/movie/2016/9/J/Q/MBVE3B6E0_MBVE5EHJQ.html)
 * [吉哈德之歌](articles/zhihu/201609_jihade_zhige/main.md)
 
 ## 如何遏制
